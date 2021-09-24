@@ -1,0 +1,64 @@
+@-ms-viewport {
+  width: device-width;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: left;
+  color: #ffffff;
+  background-color: #1b4353;
+}
+h2 {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+footer {
+  font-family: sans-serif;
+  text-align: right;
+  color: white;
+}
+nav {
+  font-family: sans-serif;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1d70a2;
+  flex: 3;
+  margin-top: 0;
+}
+li {
+  float: left;
+}
+ul {
+  list-style-type: none;
+  margin: 5;
+  padding: 0;
+  overflow: hidden;
+}
+a {
+  color: white;
+  font-size: 30;
+  letter-spacing: 2px;
+  padding: 10px;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+header {
+  background-image: url("https://d1ymz67w5raq8g.cloudfront.net/Pictures/1024x536/9/6/9/511969_floatingbubblesshutterstock_296886146_163553.jpg");
+  margin-bottom: 0;
+}
+.comments {
+  text-align: right;
+}
+
+.before-after {
+  display: flex;
+}
