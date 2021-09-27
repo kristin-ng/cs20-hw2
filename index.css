@@ -67,3 +67,7 @@ header {
   font-size: 200%;
   font-weight: 200;
 }
+p {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
