@@ -10,6 +10,7 @@ body {
 }
 h2 {
   text-align: center;
+  font-size: 200%;
 }
 h1 {
   text-align: center;
@@ -40,7 +41,7 @@ ul {
 }
 a {
   color: white;
-  font-size: 30;
+  font-size: 100;
   letter-spacing: 2px;
   padding: 10px;
   display: inline-block;
@@ -52,7 +53,7 @@ a:hover {
   text-decoration: underline;
 }
 header {
-  background-image: url("https://d1ymz67w5raq8g.cloudfront.net/Pictures/1024x536/9/6/9/511969_floatingbubblesshutterstock_296886146_163553.jpg");
+  background-image: url("https://cdn.shopify.com/s/files/1/1034/3311/files/hydrangea-flowers-in-the-garden-picture-id927499422_1024x1024.jpg?v=1578384074");
   margin-bottom: 0;
 }
 .comments {
@@ -61,4 +62,8 @@ header {
 
 .before-after {
   display: flex;
+}
+.ad {
+  font-size: 200%;
+  font-weight: 200;
 }
